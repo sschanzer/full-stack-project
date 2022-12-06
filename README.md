@@ -4,7 +4,7 @@ Personal Project
 
 This site/app will allow you to catolog your workouts and track your progress. 
 
-It will be able to structure differnt splits based on certain input variables such as number of days a week you want to work out, and if your training for hypertrophy, strength, or maintenance.
+It will be able to structure differnt splits based on number of days a week you want to work out.
 
 It will include a database of workouts, categorized by the primary muscle group the excersize targets:
 Arms
@@ -30,6 +30,7 @@ Superset
 Integration with myFitnessPal App 
 Links to videos on how to perform any given exercise. 
 Integration with spotify?
-
+Api calls to: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
+Google calender api call: https://developers.google.com/calendar/api/v3/reference
 
 
